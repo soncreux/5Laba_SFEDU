@@ -1,0 +1,3 @@
+C:/Users/dimak/Desktop/ICTIS/Practice/Algoritmization and programming(lab)/MAYBEFUCKINGTHIS/cmake-build-debug/CMakeFiles/MAYBEFUCKINGTHIS.dir
+C:/Users/dimak/Desktop/ICTIS/Practice/Algoritmization and programming(lab)/MAYBEFUCKINGTHIS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dimak/Desktop/ICTIS/Practice/Algoritmization and programming(lab)/MAYBEFUCKINGTHIS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
